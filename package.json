@@ -1,0 +1,12 @@
+{
+  "name": "jeffsite",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {"node": "22.x"},
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node build.js",
+    "preview": "node server.js dist"
+  }
+}

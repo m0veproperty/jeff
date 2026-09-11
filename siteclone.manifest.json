@@ -1,0 +1,1615 @@
+{
+  "version": 2,
+  "createdAt": "2026-09-08T18:22:18.866Z",
+  "startUrl": "https://www.jeffmilanes.com/",
+  "rootOrigin": "https://www.jeffmilanes.com",
+  "browser": {
+    "requested": "opera",
+    "actual": "C:\\Users\\LARAIB\\AppData\\Local\\Programs\\Opera\\opera.exe"
+  },
+  "options": {
+    "maxPages": 250,
+    "maxDepth": 6,
+    "browser": "opera",
+    "externalAssets": true,
+    "includeSubdomains": false,
+    "sitemap": true,
+    "rewriteJs": true,
+    "scroll": true,
+    "interactions": true,
+    "recursiveAssets": true,
+    "assetRounds": 10
+  },
+  "resources": {
+    "https://www.jeffmilanes.com/": {
+      "remoteUrl": "https://www.jeffmilanes.com/",
+      "localPath": "index.html",
+      "publicPath": "/",
+      "kind": "document",
+      "resourceType": "document",
+      "contentType": "text/html",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 57678,
+      "renderedHtml": true,
+      "discovered": false,
+      "headers": {
+        "content-type": "text/html; charset=utf-8"
+      }
+    },
+    "https://www.jeffmilanes.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "localPath": "cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "publicPath": "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 1239,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495": {
+      "remoteUrl": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+      "localPath": "_external/static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495.js",
+      "publicPath": "/_external/static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 30294,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "text/javascript",
+        "cross-origin-resource-policy": "cross-origin"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/ind-healthcare.jpg": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/ind-healthcare.jpg",
+      "localPath": "cinematics/ind-healthcare.jpg",
+      "publicPath": "/cinematics/ind-healthcare.jpg",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 91594,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/310vm2bl3xxpt.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/310vm2bl3xxpt.js",
+      "localPath": "_next/static/chunks/310vm2bl3xxpt.js",
+      "publicPath": "/_next/static/chunks/310vm2bl3xxpt.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 5364,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/0l7r2bomu2o0j.css": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/0l7r2bomu2o0j.css",
+      "localPath": "_next/static/chunks/0l7r2bomu2o0j.css",
+      "publicPath": "/_next/static/chunks/0l7r2bomu2o0j.css",
+      "kind": "asset",
+      "resourceType": "stylesheet",
+      "contentType": "text/css",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 44992,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "text/css"
+      }
+    },
+    "https://www.jeffmilanes.com/brand/signature.png": {
+      "remoteUrl": "https://www.jeffmilanes.com/brand/signature.png",
+      "localPath": "brand/signature.png",
+      "publicPath": "/brand/signature.png",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/png",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 39218,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/png"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2",
+      "localPath": "_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2",
+      "publicPath": "/_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2",
+      "kind": "font",
+      "resourceType": "font",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 34940,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/stand-hero.jpg": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/stand-hero.jpg",
+      "localPath": "cinematics/stand-hero.jpg",
+      "publicPath": "/cinematics/stand-hero.jpg",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 159489,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2",
+      "localPath": "_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2",
+      "publicPath": "/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2",
+      "kind": "font",
+      "resourceType": "font",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 23108,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/19mx3mg6lkumu.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/19mx3mg6lkumu.js",
+      "localPath": "_next/static/chunks/19mx3mg6lkumu.js",
+      "publicPath": "/_next/static/chunks/19mx3mg6lkumu.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 28907,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/3e4keds9ktjdu.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/3e4keds9ktjdu.js",
+      "localPath": "_next/static/chunks/3e4keds9ktjdu.js",
+      "publicPath": "/_next/static/chunks/3e4keds9ktjdu.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 229156,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/3n-p115s5-d7c.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/3n-p115s5-d7c.js",
+      "localPath": "_next/static/chunks/3n-p115s5-d7c.js",
+      "publicPath": "/_next/static/chunks/3n-p115s5-d7c.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 165318,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/1ll0orzxv07nz.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/1ll0orzxv07nz.js",
+      "localPath": "_next/static/chunks/1ll0orzxv07nz.js",
+      "publicPath": "/_next/static/chunks/1ll0orzxv07nz.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 9067,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/23t519i53awm4.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/23t519i53awm4.js",
+      "localPath": "_next/static/chunks/23t519i53awm4.js",
+      "publicPath": "/_next/static/chunks/23t519i53awm4.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 17821,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/3fntmmi971322.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/3fntmmi971322.js",
+      "localPath": "_next/static/chunks/3fntmmi971322.js",
+      "publicPath": "/_next/static/chunks/3fntmmi971322.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 14377,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/turbopack-3h2g5yokr409k.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/turbopack-3h2g5yokr409k.js",
+      "localPath": "_next/static/chunks/turbopack-3h2g5yokr409k.js",
+      "publicPath": "/_next/static/chunks/turbopack-3h2g5yokr409k.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 9652,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/2wzwcii7f1pcu.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/2wzwcii7f1pcu.js",
+      "localPath": "_next/static/chunks/2wzwcii7f1pcu.js",
+      "publicPath": "/_next/static/chunks/2wzwcii7f1pcu.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 1087065,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/41b097bd224e/main.js?": {
+      "remoteUrl": "https://www.jeffmilanes.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/41b097bd224e/main.js?",
+      "localPath": "cdn-cgi/challenge-platform/h/b/scripts/jsd/41b097bd224e/main.js",
+      "publicPath": "/cdn-cgi/challenge-platform/h/b/scripts/jsd/41b097bd224e/main.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 20694,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/experience-bg.jpg": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/experience-bg.jpg",
+      "localPath": "cinematics/experience-bg.jpg",
+      "publicPath": "/cinematics/experience-bg.jpg",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 32121,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/media/651aaf1801011892-s.357dd_6abeqge.woff2": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/651aaf1801011892-s.357dd_6abeqge.woff2",
+      "localPath": "_next/static/media/651aaf1801011892-s.357dd_6abeqge.woff2",
+      "publicPath": "/_next/static/media/651aaf1801011892-s.357dd_6abeqge.woff2",
+      "kind": "font",
+      "resourceType": "font",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 32672,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "https://www.jeffmilanes.com/brand/icon-dark.png": {
+      "remoteUrl": "https://www.jeffmilanes.com/brand/icon-dark.png",
+      "localPath": "brand/icon-dark.png",
+      "publicPath": "/brand/icon-dark.png",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/png",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 20062,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/png"
+      }
+    },
+    "https://www.jeffmilanes.com/brand/icon-light.png": {
+      "remoteUrl": "https://www.jeffmilanes.com/brand/icon-light.png",
+      "localPath": "brand/icon-light.png",
+      "publicPath": "/brand/icon-light.png",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/png",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 20058,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/png"
+      }
+    },
+    "https://www.jeffmilanes.com/favicon.ico?favicon.163e0qpteilov.ico": {
+      "remoteUrl": "https://www.jeffmilanes.com/favicon.ico?favicon.163e0qpteilov.ico",
+      "localPath": "favicon__q_e2b0a4762078.ico",
+      "publicPath": "/favicon.ico?favicon.163e0qpteilov.ico",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/vnd.microsoft.icon",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 17014,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/vnd.microsoft.icon"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/domains.mp4": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/domains.mp4",
+      "localPath": "cinematics/domains.mp4",
+      "publicPath": "/cinematics/domains.mp4",
+      "kind": "video",
+      "resourceType": "other",
+      "contentType": "video/mp4",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 6631369,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "video/mp4"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/work-angkas.jpg": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/work-angkas.jpg",
+      "localPath": "cinematics/work-angkas.jpg",
+      "publicPath": "/cinematics/work-angkas.jpg",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 196360,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/work-goldrank.jpg": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/work-goldrank.jpg",
+      "localPath": "cinematics/work-goldrank.jpg",
+      "publicPath": "/cinematics/work-goldrank.jpg",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 133246,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/worlds.mp4": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/worlds.mp4",
+      "localPath": "cinematics/worlds.mp4",
+      "publicPath": "/cinematics/worlds.mp4",
+      "kind": "video",
+      "resourceType": "other",
+      "contentType": "video/mp4",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 2770792,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "video/mp4"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/chunks/0cz1d0mv5g_q7.js": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "localPath": "_next/static/chunks/0cz1d0mv5g_q7.js",
+      "publicPath": "/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "kind": "asset",
+      "resourceType": "other",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 112594,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/work-angkas-800.jpg": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/work-angkas-800.jpg",
+      "localPath": "cinematics/work-angkas-800.jpg",
+      "publicPath": "/cinematics/work-angkas-800.jpg",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 49317,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/stand-hero-780.jpg": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/stand-hero-780.jpg",
+      "localPath": "cinematics/stand-hero-780.jpg",
+      "publicPath": "/cinematics/stand-hero-780.jpg",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 15009,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/og-hero.jpg?v=1": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/og-hero.jpg?v=1",
+      "localPath": "cinematics/og-hero__q_258c7611cdf8.jpg",
+      "publicPath": "/cinematics/og-hero.jpg?v=1",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 43645,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/stand-hero-1200.jpg": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/stand-hero-1200.jpg",
+      "localPath": "cinematics/stand-hero-1200.jpg",
+      "publicPath": "/cinematics/stand-hero-1200.jpg",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 29555,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "https://www.jeffmilanes.com/cinematics/work-goldrank-800.jpg": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/work-goldrank-800.jpg",
+      "localPath": "cinematics/work-goldrank-800.jpg",
+      "publicPath": "/cinematics/work-goldrank-800.jpg",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 31821,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/media/7d817b4c03b0c5f1-s.1uyisp29ctx0d.woff2": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/7d817b4c03b0c5f1-s.1uyisp29ctx0d.woff2",
+      "localPath": "_next/static/media/7d817b4c03b0c5f1-s.1uyisp29ctx0d.woff2",
+      "publicPath": "/_next/static/media/7d817b4c03b0c5f1-s.1uyisp29ctx0d.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 7728,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/media/5ce348bf30bf5439-s.31988l_ccedte.woff2": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/5ce348bf30bf5439-s.31988l_ccedte.woff2",
+      "localPath": "_next/static/media/5ce348bf30bf5439-s.31988l_ccedte.woff2",
+      "publicPath": "/_next/static/media/5ce348bf30bf5439-s.31988l_ccedte.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 6204,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/media/6306c77e7c8268e4-s.2dbetqa9o8jxf.woff2": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/6306c77e7c8268e4-s.2dbetqa9o8jxf.woff2",
+      "localPath": "_next/static/media/6306c77e7c8268e4-s.2dbetqa9o8jxf.woff2",
+      "publicPath": "/_next/static/media/6306c77e7c8268e4-s.2dbetqa9o8jxf.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 5892,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/media/a2947afc6a06879b-s.1gyfqm5yhhzs7.woff2": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/a2947afc6a06879b-s.1gyfqm5yhhzs7.woff2",
+      "localPath": "_next/static/media/a2947afc6a06879b-s.1gyfqm5yhhzs7.woff2",
+      "publicPath": "/_next/static/media/a2947afc6a06879b-s.1gyfqm5yhhzs7.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 13216,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/media/bbc41e54d2fcbd21-s.1rgnod-3esatf.woff2": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/bbc41e54d2fcbd21-s.1rgnod-3esatf.woff2",
+      "localPath": "_next/static/media/bbc41e54d2fcbd21-s.1rgnod-3esatf.woff2",
+      "publicPath": "/_next/static/media/bbc41e54d2fcbd21-s.1rgnod-3esatf.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 14712,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "https://www.jeffmilanes.com/_next/static/media/4fa387ec64143e14-s.2tuy5pz7dlieh.woff2": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/4fa387ec64143e14-s.2tuy5pz7dlieh.woff2",
+      "localPath": "_next/static/media/4fa387ec64143e14-s.2tuy5pz7dlieh.woff2",
+      "publicPath": "/_next/static/media/4fa387ec64143e14-s.2tuy5pz7dlieh.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 12872,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "https://www.jeffmilanes.com/sounds/key-click.wav": {
+      "remoteUrl": "https://www.jeffmilanes.com/sounds/key-click.wav",
+      "localPath": "sounds/key-click.wav",
+      "publicPath": "/sounds/key-click.wav",
+      "kind": "audio",
+      "resourceType": "other",
+      "contentType": "audio/wav",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 6922,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "audio/wav"
+      }
+    },
+    "https://www.jeffmilanes.com/sounds/reel.m4a": {
+      "remoteUrl": "https://www.jeffmilanes.com/sounds/reel.m4a",
+      "localPath": "sounds/reel.m4a",
+      "publicPath": "/sounds/reel.m4a",
+      "kind": "audio",
+      "resourceType": "other",
+      "contentType": "audio/mp4",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 74770,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "audio/mp4"
+      }
+    }
+  },
+  "responses": {
+    "GET / ": {
+      "remoteUrl": "https://www.jeffmilanes.com/",
+      "localPath": "index.html",
+      "publicPath": "/",
+      "kind": "document",
+      "resourceType": "document",
+      "contentType": "text/html",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 57678,
+      "renderedHtml": true,
+      "discovered": false,
+      "headers": {
+        "content-type": "text/html; charset=utf-8"
+      }
+    },
+    "GET /cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "localPath": "cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "publicPath": "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 1239,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /_external/static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495 ": {
+      "remoteUrl": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+      "localPath": "_external/static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495.js",
+      "publicPath": "/_external/static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "text/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 30294,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "text/javascript",
+        "cross-origin-resource-policy": "cross-origin"
+      }
+    },
+    "GET /cinematics/ind-healthcare.jpg ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/ind-healthcare.jpg",
+      "localPath": "cinematics/ind-healthcare.jpg",
+      "publicPath": "/cinematics/ind-healthcare.jpg",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 91594,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "GET /_next/static/chunks/310vm2bl3xxpt.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/310vm2bl3xxpt.js",
+      "localPath": "_next/static/chunks/310vm2bl3xxpt.js",
+      "publicPath": "/_next/static/chunks/310vm2bl3xxpt.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 5364,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /_next/static/chunks/0l7r2bomu2o0j.css ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/0l7r2bomu2o0j.css",
+      "localPath": "_next/static/chunks/0l7r2bomu2o0j.css",
+      "publicPath": "/_next/static/chunks/0l7r2bomu2o0j.css",
+      "kind": "asset",
+      "resourceType": "stylesheet",
+      "contentType": "text/css",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 44992,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "text/css"
+      }
+    },
+    "GET /brand/signature.png ": {
+      "remoteUrl": "https://www.jeffmilanes.com/brand/signature.png",
+      "localPath": "brand/signature.png",
+      "publicPath": "/brand/signature.png",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/png",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 39218,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/png"
+      }
+    },
+    "GET /_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2",
+      "localPath": "_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2",
+      "publicPath": "/_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2",
+      "kind": "font",
+      "resourceType": "font",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 34940,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "GET /cinematics/stand-hero.jpg ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/stand-hero.jpg",
+      "localPath": "cinematics/stand-hero.jpg",
+      "publicPath": "/cinematics/stand-hero.jpg",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 159489,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "GET /_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2",
+      "localPath": "_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2",
+      "publicPath": "/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2",
+      "kind": "font",
+      "resourceType": "font",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 23108,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "GET /_next/static/chunks/19mx3mg6lkumu.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/19mx3mg6lkumu.js",
+      "localPath": "_next/static/chunks/19mx3mg6lkumu.js",
+      "publicPath": "/_next/static/chunks/19mx3mg6lkumu.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 28907,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /_next/static/chunks/3e4keds9ktjdu.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/3e4keds9ktjdu.js",
+      "localPath": "_next/static/chunks/3e4keds9ktjdu.js",
+      "publicPath": "/_next/static/chunks/3e4keds9ktjdu.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 229156,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /_next/static/chunks/3n-p115s5-d7c.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/3n-p115s5-d7c.js",
+      "localPath": "_next/static/chunks/3n-p115s5-d7c.js",
+      "publicPath": "/_next/static/chunks/3n-p115s5-d7c.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 165318,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /_next/static/chunks/1ll0orzxv07nz.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/1ll0orzxv07nz.js",
+      "localPath": "_next/static/chunks/1ll0orzxv07nz.js",
+      "publicPath": "/_next/static/chunks/1ll0orzxv07nz.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 9067,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /_next/static/chunks/23t519i53awm4.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/23t519i53awm4.js",
+      "localPath": "_next/static/chunks/23t519i53awm4.js",
+      "publicPath": "/_next/static/chunks/23t519i53awm4.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 17821,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /_next/static/chunks/3fntmmi971322.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/3fntmmi971322.js",
+      "localPath": "_next/static/chunks/3fntmmi971322.js",
+      "publicPath": "/_next/static/chunks/3fntmmi971322.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 14377,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /_next/static/chunks/turbopack-3h2g5yokr409k.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/turbopack-3h2g5yokr409k.js",
+      "localPath": "_next/static/chunks/turbopack-3h2g5yokr409k.js",
+      "publicPath": "/_next/static/chunks/turbopack-3h2g5yokr409k.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 9652,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /_next/static/chunks/2wzwcii7f1pcu.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/2wzwcii7f1pcu.js",
+      "localPath": "_next/static/chunks/2wzwcii7f1pcu.js",
+      "publicPath": "/_next/static/chunks/2wzwcii7f1pcu.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 1087065,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /cdn-cgi/challenge-platform/h/b/scripts/jsd/41b097bd224e/main.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/41b097bd224e/main.js?",
+      "localPath": "cdn-cgi/challenge-platform/h/b/scripts/jsd/41b097bd224e/main.js",
+      "publicPath": "/cdn-cgi/challenge-platform/h/b/scripts/jsd/41b097bd224e/main.js",
+      "kind": "asset",
+      "resourceType": "script",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 20694,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /cinematics/experience-bg.jpg ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/experience-bg.jpg",
+      "localPath": "cinematics/experience-bg.jpg",
+      "publicPath": "/cinematics/experience-bg.jpg",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 32121,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "GET /_next/static/media/651aaf1801011892-s.357dd_6abeqge.woff2 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/651aaf1801011892-s.357dd_6abeqge.woff2",
+      "localPath": "_next/static/media/651aaf1801011892-s.357dd_6abeqge.woff2",
+      "publicPath": "/_next/static/media/651aaf1801011892-s.357dd_6abeqge.woff2",
+      "kind": "font",
+      "resourceType": "font",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 32672,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "POST /cdn-cgi/challenge-platform/h/b/jsd/oneshot/41b097bd224e/0.06777032699130403:1788890427:4wbKS_NG8xJN5Skv9sY3qEiDXOPlpPkhSSP78da5CQ4/a37ffa29fa77fa00 f81a3278ed06": {
+      "remoteUrl": "https://www.jeffmilanes.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/41b097bd224e/0.06777032699130403:1788890427:4wbKS_NG8xJN5Skv9sY3qEiDXOPlpPkhSSP78da5CQ4/a37ffa29fa77fa00",
+      "localPath": "cdn-cgi/challenge-platform/h/b/jsd/oneshot/41b097bd224e/0.06777032699130403_1788890427_4wbKS_NG8xJN5Skv9sY3qEiDXOPlpPkhSSP78da5CQ4/a37ffa29fa77fa00__m_post_f81a3278ed06.bin",
+      "publicPath": "/cdn-cgi/challenge-platform/h/b/jsd/oneshot/41b097bd224e/0.06777032699130403:1788890427:4wbKS_NG8xJN5Skv9sY3qEiDXOPlpPkhSSP78da5CQ4/a37ffa29fa77fa00",
+      "kind": "asset",
+      "resourceType": "xhr",
+      "contentType": "text/plain",
+      "status": 200,
+      "method": "POST",
+      "postDataHash": "f81a3278ed06",
+      "bytes": 0,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "text/plain"
+      }
+    },
+    "POST /cdn-cgi/rum eae65afa87f9": {
+      "remoteUrl": "https://www.jeffmilanes.com/cdn-cgi/rum?",
+      "localPath": "cdn-cgi/rum__m_post_eae65afa87f9.bin",
+      "publicPath": "/cdn-cgi/rum",
+      "kind": "asset",
+      "resourceType": "xhr",
+      "contentType": "text/plain",
+      "status": 204,
+      "method": "POST",
+      "postDataHash": "eae65afa87f9",
+      "bytes": 0,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "text/plain"
+      }
+    },
+    "GET /brand/icon-dark.png ": {
+      "remoteUrl": "https://www.jeffmilanes.com/brand/icon-dark.png",
+      "localPath": "brand/icon-dark.png",
+      "publicPath": "/brand/icon-dark.png",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/png",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 20062,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/png"
+      }
+    },
+    "GET /brand/icon-light.png ": {
+      "remoteUrl": "https://www.jeffmilanes.com/brand/icon-light.png",
+      "localPath": "brand/icon-light.png",
+      "publicPath": "/brand/icon-light.png",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/png",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 20058,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/png"
+      }
+    },
+    "GET /favicon.ico?favicon.163e0qpteilov.ico ": {
+      "remoteUrl": "https://www.jeffmilanes.com/favicon.ico?favicon.163e0qpteilov.ico",
+      "localPath": "favicon__q_e2b0a4762078.ico",
+      "publicPath": "/favicon.ico?favicon.163e0qpteilov.ico",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/vnd.microsoft.icon",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 17014,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/vnd.microsoft.icon"
+      }
+    },
+    "GET /cinematics/domains.mp4 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/domains.mp4",
+      "localPath": "cinematics/domains.mp4",
+      "publicPath": "/cinematics/domains.mp4",
+      "kind": "video",
+      "resourceType": "other",
+      "contentType": "video/mp4",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 6631369,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "video/mp4"
+      }
+    },
+    "GET /cinematics/work-angkas.jpg ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/work-angkas.jpg",
+      "localPath": "cinematics/work-angkas.jpg",
+      "publicPath": "/cinematics/work-angkas.jpg",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 196360,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "GET /cinematics/work-goldrank.jpg ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/work-goldrank.jpg",
+      "localPath": "cinematics/work-goldrank.jpg",
+      "publicPath": "/cinematics/work-goldrank.jpg",
+      "kind": "image",
+      "resourceType": "image",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 133246,
+      "renderedHtml": false,
+      "discovered": false,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "GET /cinematics/worlds.mp4 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/worlds.mp4",
+      "localPath": "cinematics/worlds.mp4",
+      "publicPath": "/cinematics/worlds.mp4",
+      "kind": "video",
+      "resourceType": "other",
+      "contentType": "video/mp4",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 2770792,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "video/mp4"
+      }
+    },
+    "GET /_next/static/chunks/0cz1d0mv5g_q7.js ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "localPath": "_next/static/chunks/0cz1d0mv5g_q7.js",
+      "publicPath": "/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "kind": "asset",
+      "resourceType": "other",
+      "contentType": "application/javascript",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 112594,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "application/javascript"
+      }
+    },
+    "GET /cinematics/work-angkas-800.jpg ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/work-angkas-800.jpg",
+      "localPath": "cinematics/work-angkas-800.jpg",
+      "publicPath": "/cinematics/work-angkas-800.jpg",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 49317,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "GET /cinematics/stand-hero-780.jpg ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/stand-hero-780.jpg",
+      "localPath": "cinematics/stand-hero-780.jpg",
+      "publicPath": "/cinematics/stand-hero-780.jpg",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 15009,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "GET /cinematics/og-hero.jpg?v=1 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/og-hero.jpg?v=1",
+      "localPath": "cinematics/og-hero__q_258c7611cdf8.jpg",
+      "publicPath": "/cinematics/og-hero.jpg?v=1",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 43645,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "GET /cinematics/stand-hero-1200.jpg ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/stand-hero-1200.jpg",
+      "localPath": "cinematics/stand-hero-1200.jpg",
+      "publicPath": "/cinematics/stand-hero-1200.jpg",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 29555,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "GET /cinematics/work-goldrank-800.jpg ": {
+      "remoteUrl": "https://www.jeffmilanes.com/cinematics/work-goldrank-800.jpg",
+      "localPath": "cinematics/work-goldrank-800.jpg",
+      "publicPath": "/cinematics/work-goldrank-800.jpg",
+      "kind": "image",
+      "resourceType": "other",
+      "contentType": "image/jpeg",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 31821,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "image/jpeg"
+      }
+    },
+    "GET /_next/static/media/7d817b4c03b0c5f1-s.1uyisp29ctx0d.woff2 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/7d817b4c03b0c5f1-s.1uyisp29ctx0d.woff2",
+      "localPath": "_next/static/media/7d817b4c03b0c5f1-s.1uyisp29ctx0d.woff2",
+      "publicPath": "/_next/static/media/7d817b4c03b0c5f1-s.1uyisp29ctx0d.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 7728,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "GET /_next/static/media/5ce348bf30bf5439-s.31988l_ccedte.woff2 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/5ce348bf30bf5439-s.31988l_ccedte.woff2",
+      "localPath": "_next/static/media/5ce348bf30bf5439-s.31988l_ccedte.woff2",
+      "publicPath": "/_next/static/media/5ce348bf30bf5439-s.31988l_ccedte.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 6204,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "GET /_next/static/media/6306c77e7c8268e4-s.2dbetqa9o8jxf.woff2 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/6306c77e7c8268e4-s.2dbetqa9o8jxf.woff2",
+      "localPath": "_next/static/media/6306c77e7c8268e4-s.2dbetqa9o8jxf.woff2",
+      "publicPath": "/_next/static/media/6306c77e7c8268e4-s.2dbetqa9o8jxf.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 5892,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "GET /_next/static/media/a2947afc6a06879b-s.1gyfqm5yhhzs7.woff2 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/a2947afc6a06879b-s.1gyfqm5yhhzs7.woff2",
+      "localPath": "_next/static/media/a2947afc6a06879b-s.1gyfqm5yhhzs7.woff2",
+      "publicPath": "/_next/static/media/a2947afc6a06879b-s.1gyfqm5yhhzs7.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 13216,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "GET /_next/static/media/bbc41e54d2fcbd21-s.1rgnod-3esatf.woff2 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/bbc41e54d2fcbd21-s.1rgnod-3esatf.woff2",
+      "localPath": "_next/static/media/bbc41e54d2fcbd21-s.1rgnod-3esatf.woff2",
+      "publicPath": "/_next/static/media/bbc41e54d2fcbd21-s.1rgnod-3esatf.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 14712,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "GET /_next/static/media/4fa387ec64143e14-s.2tuy5pz7dlieh.woff2 ": {
+      "remoteUrl": "https://www.jeffmilanes.com/_next/static/media/4fa387ec64143e14-s.2tuy5pz7dlieh.woff2",
+      "localPath": "_next/static/media/4fa387ec64143e14-s.2tuy5pz7dlieh.woff2",
+      "publicPath": "/_next/static/media/4fa387ec64143e14-s.2tuy5pz7dlieh.woff2",
+      "kind": "font",
+      "resourceType": "other",
+      "contentType": "font/woff2",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 12872,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "font/woff2"
+      }
+    },
+    "GET /sounds/key-click.wav ": {
+      "remoteUrl": "https://www.jeffmilanes.com/sounds/key-click.wav",
+      "localPath": "sounds/key-click.wav",
+      "publicPath": "/sounds/key-click.wav",
+      "kind": "audio",
+      "resourceType": "other",
+      "contentType": "audio/wav",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 6922,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "audio/wav"
+      }
+    },
+    "GET /sounds/reel.m4a ": {
+      "remoteUrl": "https://www.jeffmilanes.com/sounds/reel.m4a",
+      "localPath": "sounds/reel.m4a",
+      "publicPath": "/sounds/reel.m4a",
+      "kind": "audio",
+      "resourceType": "other",
+      "contentType": "audio/mp4",
+      "status": 200,
+      "method": "GET",
+      "postDataHash": "",
+      "bytes": 74770,
+      "renderedHtml": false,
+      "discovered": true,
+      "headers": {
+        "content-type": "audio/mp4"
+      }
+    }
+  },
+  "aliases": {},
+  "blobs": {},
+  "pages": [
+    {
+      "requestedUrl": "https://www.jeffmilanes.com/",
+      "finalUrl": "https://www.jeffmilanes.com/",
+      "depth": 0,
+      "localPath": "index.html",
+      "title": "Jeffrey Milanes | Software Engineer & Software Architect"
+    }
+  ],
+  "failures": [
+    {
+      "type": "request",
+      "url": "https://www.jeffmilanes.com/cinematics/domains.mp4",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "type": "request",
+      "url": "https://www.jeffmilanes.com/cinematics/domains.mp4",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "type": "request",
+      "url": "https://www.jeffmilanes.com/cinematics/domains.mp4",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "type": "request",
+      "url": "https://www.jeffmilanes.com/cinematics/domains.mp4",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/cdn-cgi/rum?",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/630",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/1200",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/Jeffrey%20Milanes,%20software%20engineer%20and%20software%20architect",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/ROOT/node_modules/next/dist/compiled/process/",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/_next/static/chunks/static/chunks/3e4keds9ktjdu.js",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/_next/static/chunks/static/chunks/3n-p115s5-d7c.js",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/_next/static/chunks/static/chunks/310vm2bl3xxpt.js",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/_next/static/chunks/static/chunks/19mx3mg6lkumu.js",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/_next/static/chunks/)[2])||!t&&n.zOrigin||0)&&(U[iR]=i8(k)),n.xOffset=n.yOffset=0,n.force3D=eh.force3D,n.renderTransform=n.svg?rn:ia?rt:i7,n.uncache=0,n},i8=function(e){return(e=e.split(",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/_next/static/chunks/,n.map?",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/_next/static/chunks/image/png",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/_next/static/chunks/-800.jpg",
+      "status": 404
+    },
+    {
+      "type": "asset",
+      "url": "https://www.jeffmilanes.com/_next/static/chunks/Node.js/",
+      "status": 404
+    }
+  ],
+  "runtime": {
+    "websockets": [],
+    "eventStreams": []
+  },
+  "stats": {
+    "pagesVisited": 1,
+    "resourcesSaved": 44,
+    "bytesSaved": 12337340,
+    "failedPages": 0,
+    "skippedResources": 0,
+    "recursiveAssetsFetched": 15,
+    "blobResourcesSaved": 0,
+    "partialResponses": 7,
+    "assetKinds": {
+      "asset": 17,
+      "image": 14,
+      "font": 9,
+      "video": 2,
+      "audio": 2
+    }
+  }
+}
